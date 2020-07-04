@@ -11,6 +11,8 @@
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
     transition: all 0.25s;
+    scrollbar-color: rgb(100, 100, 100) rgb(50, 50, 50);
+    scrollbar-width: thin;
 }
 
 body {
@@ -21,8 +23,6 @@ body {
 
 html, body {
     height: 100%;
-    scrollbar-color: rgb(100, 100, 100) rgb(50, 50, 50);
-    scrollbar-width: thin;
 }
 
 a {
@@ -63,6 +63,7 @@ header nav {
     display: flex;
     list-style: none;
     padding: 1rem 0 0;
+    height: 66px;
 }
 
 header nav ul a {
@@ -91,7 +92,6 @@ header nav ul {
     width: 150px;
     line-height: 50px;
     text-align: center;
-    height: 8vh;
 }
 
 .logo {
@@ -159,16 +159,12 @@ main {
     background-color: #505050;
 }
 
-.album-image {
-    float: left;
-}
-
 h1, h2 {
     font-family: 'Oswald', sans-serif;
     color: #ebaf1d;
     text-transform: uppercase;
     margin: 1rem;
-    display: inline-block;
+    display: block;
     letter-spacing: 2px;
 }
 
@@ -178,15 +174,13 @@ h1 {
     text-shadow: 0px 2px 10px rgb(0, 0, 0);
 }
 
-.albuns {
+.albuns, .albuns-section {
     position: relative;
     text-align: center;
-    margin-top: -3rem;
 }
 
 .albuns-section {
-    position: relative;
-    text-align: center;
+    margin-top: -3rem;
 }
 
 .albuns img, .albuns-section img {
@@ -200,6 +194,7 @@ h1 {
     font-size: 35px;
     position: absolute;
     left: 50%;
+    display: inline-block;
     transform: translate(-50%, -50%);
     text-shadow: 0px 2px 10px rgb(0, 0, 0);
     margin: 1rem 0;
@@ -216,17 +211,10 @@ h1 {
     left: 50%;
     transform: translate(-50%, -50%);
     margin: 0 auto;
-}
-
-.album-list {
     top: 60%;
 }
 
-.albuns-section-list {
-    top: 70%;
-}
-
-.album-list img, .albuns-section-list img{
+.album-list img, .albuns-section-list img, .album-image{
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
     border-radius: 0.5rem;
     transform: scale(1);
@@ -316,6 +304,69 @@ h1 {
 
 p {
     line-height: 1.6;
+}
+
+.album-image {
+    float: left;
+    margin: auto 1rem 1rem auto;
+}
+
+.song-list {
+    margin: 0 auto;
+}
+
+table {
+    display: flex;
+    flex-flow: column;
+    border-collapse: collapse;
+    background-color: #2e2e2e;
+}
+
+tbody {
+    display: block;
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 200px;
+}
+
+th, td {
+    padding: 0.5rem;
+    color: white;
+}
+
+tr:nth-child(even){
+    background-color: #202020;
+}
+
+th {
+    background-color: #707070;
+}
+
+td {
+    border: 1px solid #707070;
+}
+
+tr th, tr td:first-child, tr td:last-child {
+    text-align: center;
+}
+
+tr th:nth-child(2), tr td:nth-child(2) {
+    min-width: 300px;
+    width: 100%;
+}
+
+article {
+    display: inline-block;
+    padding: 0 8vh 8vh;
+}
+
+.player {
+    float: right;
+    margin: auto auto 1rem 1rem;
+}
+
+.info-album {
+    background-color: #979797;
 }
 
 /* FOOTER */
