@@ -1,25 +1,47 @@
-const songs = {
-    cowboys: "https://www.deezer.com/plugins/player?format=square&autoplay=false&playlist=false&width=300&height=300&color=007FEB&layout=dark&size=medium&type=tracks&id=714397&app_id=1",
-    primal: "https://www.deezer.com/plugins/player?format=square&autoplay=false&playlist=false&width=300&height=300&color=007FEB&layout=dark&size=medium&type=tracks&id=714401&app_id=1",
-    psycho: "https://www.deezer.com/plugins/player?format=square&autoplay=false&playlist=false&width=300&height=300&color=007FEB&layout=dark&size=medium&type=tracks&id=714407&app_id=1"
-}
-
 const player = document.querySelector(".player")
 
-// Cowboys From Hell
+const songs = {
+    cowboys: "714397",
+    primal: "714401",
+    psycho: "714407S",
+    heresy: "714412"
+}
 
-const cowboys1 = document.getElementById("cowboys1")
-const cowboys2 = document.getElementById("cowboys2")
-const cowboys3 = document.getElementById("cowboys3")
+const configPlayer = {
+    format: "square",  // Formato do player
+    autoplay: "true",  // Tocar automaticamente
+    playlist: "false", // Lista de músicas
+    layout: "dark",    // Tema do player
+    size: "medium",    // Tamanho
+    type: "tracks",    // Tipo
+    width: "300",      // Comprimento
+    height: "300"      // Altura
+}
 
-cowboys1.addEventListener('click', () => {
-    player.src = songs.cowboys
-})
+const putID = (id_song) => {
+    return "https://www.deezer.com/plugins/player?format="+ configPlayer.format +"&autoplay=" + configPlayer.autoplay + "&playlist=" + configPlayer.playlist + "&width=" + configPlayer.width +"&height=" + configPlayer.height + "&color=007FEB&layout=" + configPlayer.layout + "&size=" + configPlayer.size + "&type=" + configPlayer.type + "&id=" + id_song + "&app_id=1"
+}
 
-cowboys2.addEventListener('click', () => {
-    player.src = songs.primal
-})
+// ----- Cowboys From Hell -----
 
-cowboys3.addEventListener('click', () => {
-    player.src = songs.psycho
-})
+// Adiciona evento para cada item da tabela de músicas.
+
+document.querySelectorAll(".song-list td").forEach(elemento => elemento.addEventListener("click", () => {
+    switch (elemento.id) {
+        case "cowboys1":
+            player.src = putID(songs.cowboys)
+            break
+        case "cowboys2":
+            player.src = putID(songs.primal)
+            break
+        case "cowboys3":
+            player.src = putID(songs.psycho)
+            break
+        case "cowboys4":
+            player.src = putID(songs.heresy)
+            break
+        default:
+            console.log("Valor Inválido")
+            break
+    }
+}))
