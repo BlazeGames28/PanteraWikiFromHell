@@ -228,12 +228,17 @@ h1 {
     margin: 1rem;
 }
 
-.album-list p, .albuns-section-list p {
+.album-list p, .albuns-section-list p, .album-selected p {
     font-size: 20px;
     text-shadow: 0px 2px 10px rgba(0, 0, 0, 1);
     margin: 1rem auto;
     line-height: 1.2;
     letter-spacing: 1px;
+    text-align: center;
+}
+
+.album-list a, .albuns-section-list a {
+    color: white;
 }
 
 .banner {
@@ -318,7 +323,7 @@ p {
     grid-row-end: 1;
 }
 
-.album-image {
+.album-selected {
     margin: 0 auto;
     grid-column-start: 1;
     grid-column-end: 1;
@@ -327,21 +332,28 @@ p {
 }
 
 .song-list {
-    margin: 0 auto;
+    margin: 0 1rem;
     grid-column-start: 2;
     grid-column-end: 2;
     grid-row-start: 2;
     grid-row-end: 2;
-    height: 100%;
-    width: 100%;
+    height: 300px;
 }
 
 table {
     display: flex;
+    position: relative;
     flex-flow: column;
     border-collapse: collapse;
-    background-color: #2e2e2e;
+    background-color: rgb(50, 50, 50);
     border-radius: 0.5rem;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+}
+
+thead {
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    background-color: #707070;
 }
 
 tbody {
@@ -349,32 +361,48 @@ tbody {
     overflow-y: auto;
     overflow-x: hidden;
     height: 100%;
-    border-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
 }
 
 th, td {
     padding: 0.5rem;
     color: white;
+    vertical-align: middle;
 }
 
-tr:nth-child(even){
+tbody tr:nth-child(even){
     background-color: #202020;
 }
 
-tr:hover {
+tbody tr:hover {
     background-color: #505050;
 }
 
 th {
-    background-color: #707070;
+    position: sticky;
+    top: 0;
 }
 
-td {
-    border: 1px solid #707070;
+th:last-child {
+    padding-right: 12px;
 }
 
 tr th, tr td:first-child, tr td:last-child {
     text-align: center;
+    min-width: 55px;
+}
+
+tr td:first-child {
+    border-right: 2px solid #707070;
+}
+
+tr td:last-child {
+    border-left: 2px solid #707070;
+}
+
+tr:not(:last-child) {
+    border-bottom: 2px solid #707070;
 }
 
 tr th:nth-child(2), tr td:nth-child(2) {
@@ -391,7 +419,7 @@ article {
 }
 
 .player {
-    margin: 0 auto auto 1rem;
+    margin: 0 auto;
     grid-column-start: 3;
     grid-column-end: 3;
     grid-row-start: 2;
@@ -399,6 +427,7 @@ article {
     width: 300px;
     height: 300px;
     border-radius: 0.5rem;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
 }
 
 .info-album {
@@ -407,6 +436,56 @@ article {
     grid-column-end: 3;
     grid-row-start: 3;
     grid-row-end: 3;
+    margin: 0 1rem auto;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    height: 100vh;
+}
+
+.info-album h2 {
+    color: black;
+    text-align: center;
+    letter-spacing: 1px;
+    margin: 0 auto 1rem;
+}
+
+.info-album ul {
+    margin: 1rem;
+}
+
+.info-album ul li {
+    margin: 1rem auto;
+    color: black;
+    list-style: square;
+}
+
+.letras {
+    background-color: #202020;
+    grid-column-start: 3;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 3;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin: 0 auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 100vh;
+}
+
+.letras h3 {
+    text-transform: uppercase;
+    margin: 0 auto 1rem;
+    display: block;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.letras p {
+    text-align: left;
+    margin: 1rem auto;
+    font-size: 14px;
+    line-height: 1.2;
 }
 
 /* FOOTER */
@@ -419,6 +498,7 @@ footer {
     justify-content: space-between;
     padding: 3rem 5rem;
     position: relative;
+    height: 55vh;
 }
 
 footer .logo {
