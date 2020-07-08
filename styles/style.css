@@ -218,6 +218,7 @@ h1 {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
     border-radius: 0.5rem;
     transform: scale(1);
+    margin: 0 auto;
 }
 
 .album-list img:hover, .albuns-section-list img:hover {
@@ -332,7 +333,10 @@ p {
 }
 
 .album-selected {
+    display: flex;
+    flex-direction: column;
     margin: 0 auto;
+    padding: 0 1rem;
     grid-column-start: 1;
     grid-column-end: 1;
     grid-row-start: 2;
