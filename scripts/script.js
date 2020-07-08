@@ -30,6 +30,33 @@ const letras = {
         letra9: "<h4>Regular People (Conceit)</h4> <p> I’ve trampled on that road<br> That you think you own<br> You have that “smart ass” attitude<br> It’s time to stop the fiction<br> </p> <p> I live it every day<br> While your mind’s far away<br> I’m out here putting pride on the line<br> And you case on me with pure respect<br> One chance at one thing<br> Hard time is coming<br> My time, your pain<br> I reign on you<br> </p> <p> You think you own<br> I take away<br> Take it with me<br> You think you own<br> I took away<br> Made it my own<br> </p> <p> Most regular people would say it’s hard<br> And any streetwise son of a bitch knows<br> Don’t fuck with this<br> </p> <p> The so many times<br> You practice in your mirror<br> To be just like me<br> But you just can’t see<br> You ain’t got the balls, son<br> </p> <p> I fight for love of brother<br> Your friends fight one another<br> You can’t see because your head’s up your ass<br> And just in case you think you’re bad<br> I crush your rush<br> I rule YOU fool<br> I’m immovable stone in your world of weak — I speak<br> </p>",
         letra10: "<h4>By Demons Be Driven</h4> <p> Serving the faith<br> Abduction the oath<br> It lie in wait for the offering<br> Religion is old<br> For drawing the young<br> Purity withers and dies<br> Never return to the ones that provided<br> Children draining parents of will<br> I hold out my hand to bloodless child<br> I’m taken by the one I was saving<br> From death<br> </p> <p> By demons be driven<br> Beckon the call<br> </p> <p> With decline in mind<br> End not far<br> We’re left hanging alone here<br> He pulls us from nails<br> Shatters our bones<br> Leaving us crippled and strewn<br> Boiling my corpse in the blood of his children<br> Praying for his god to prevail<br> Burying us with loved ones<br> To sleep with shelled children of the sixth dimension<br> </p>",
         letra11: "<h4>Hollow</h4> <p> What’s left inside him?<br> Don’t he remember us?<br> Can’t he believe me?<br> We seemed like bothers<br> Talked for hours last month<br> About what we wanna be<br> I sit now with his hand in mine<br> But I know he can’t feel…<br> </p> <p> No one knows<br> What’s done is done<br> It’s as if he were dead<br> </p> <p> I’m close with his mother<br> And she cries endlessly<br> Lord how we miss him<br> At least what’s remembered<br> It’s so important to make best friends in life<br> But it’s hard when my friend sits with blank expressions<br> </p> <p> No one knows<br> What’s done is done<br> It’s as if he were dead<br> </p> <p> He as hollow as I alone now<br> He as hollow as I alone<br> A shell of my friend<br> Just flesh and bone<br> There’s no soul<br> He sees no love<br> I shake my fists at skies above<br> Mad at God<br> </p> <p> He as hollow as I converse<br> I wish he’d waken from this curse<br> Hear my words before it’s through<br> I want to come in after you<br> My best friend<br> </p> <p> He as hollow as I alone<br> </p>",
+    },
+    album3: {
+        letra1: "<h4>Strength Beyond Strength</h4> <p> There is nothing.<br> No education.<br> No family life to open my arms to.<br> You’d say that my job is today, yet gone tomorrow.<br> I’ll be broke in a gutter.<br> </p> <p> I know the opinion.<br> A broken record.<br> Fuck you and your college dream.<br> Fact is we’re stronger than all.<br> </p> <p> You’re working for perfect bodies,<br> perfect minds and perfect neighbors.<br> But I’m helping to legalize dope on your pristine streets<br> and I’m making a fortune.<br> </p> <p> You’re muscle and gall.<br> Naive at best.<br> I’m bone, brain and cock.<br> Deep down stronger than all.<br> </p> <p> A sad state of affairs.<br> A crippled America.<br> A pipe dream buttfucked.<br> Immune. Stronger than all.<br> </p> <p> A lament for a rookie officer, punk ass weak little lamb.<br> For the mob, truly, does rule at this particular time.<br> </p> <p> We’ve grown into a monster.<br> An arrogant, explosive motherfuck.<br> Hard as a rock. Shut like a lock.<br> Finally, the president in submission.<br> He holds out his hand on your television and draws back a stump.<br> It’s too late for some, far too late.<br> </p> <p> No more holdbacks. No more paying a cops paycheck.<br> Let him bust his own child.<br> The son that heeds my word and smokes my dope.<br> The daughter that sucks me off and snorts cheap anything.<br> </p> <p> Hail Kings.<br> The new Kings.<br> Stronger than all.<br> </p> <p> A simple process to legalize.<br> There would not be a choice but to take our side.<br> Be there no question of certain strengths.<br> Know this intention.<br> Forever stronger than all.<br> </p>",
+        letra2: "<h4>Becoming</h4> <p> A long time ago I never knew myself.<br> Then the memory of shame birthed its gift.<br> </p> <p> No more. The small one, the weak one, the frightened one.<br> Running from beatings, deflating.<br> I’m becoming more than a man.<br> More than you ever were.<br> Driven and burning to rise beyond Jesus.<br> </p> <p> I’m born again with snakes eyes<br> Becoming Godsize<br> </p> <p> I found my life was slipping through my hands.<br> Perhaps through death my life won’t be so bad.<br> </p> <p> I can see you, can fuck you, inside of you.<br> Staring through your eyes.<br> Belittle your friends to serve me, to suck me,<br> To realize my saving grasp.<br> I of suicide.<br> I the unlord.<br> </p> <p> I’m born again with snakes eyes<br> Becoming Godsize<br> </p>",
+        letra3: "<h4>5 Minutes Alone</h4> <p> I see you had your mind all made up<br> you group of pitiful liars.<br> Before I woke to face the day,<br> your master plan transpired.<br> Something told me<br> this job had more to meet the eye.<br> My song is not believed?<br> My words somewhat deceiving?<br> Now I’m unwhole.<br> </p> <p> You’ve waged a war of nerves<br> But you can’t crush the kingdom<br> Can’t be what your idols are.<br> Can’t leave the scar.<br> You cry for compensation.<br> I ask you please just give us…<br> 5 minutes alone<br> </p> <p> I read your eyes, your mind was made up.<br> You took me for a fool.<br> You used complexion of my skin<br> for a counter racist tool.<br> You can’t burn me<br> I’ve spilled my guts out in the past.<br> Taken advantage of<br> because you know where I’ve come.<br> My past.<br> </p> <p> I ask you please just give us<br> </p>",
+        letra4: "<h4>I’m Broken</h4> <p> I wonder if we’ll smile in our coffins<br> while loved ones mourn the day,<br> the absence of our faces,<br> living, laughing, eyes awake.<br> Is this too much for them to take?<br> </p> <p> Too young for one’s conclusion, the lifestyle won.<br> Such values you taught your son.<br> That’s how.<br> </p> <p> Look at me now.<br> I’m broken.<br> Inherit my life.<br> </p> <p> One day we all will die, a cliched fact of life.<br> Force fed to make us heed.<br> Inbred to sponge our bleed.<br> Every warning, a leaking rubber,<br> a poison apple for mingled blood.<br> </p> <p> Too young for one’s delusion the lifestyle cost<br> Venereal Mother embrace the loss.<br> That’s how<br> </p> <p> Look at you now.<br> You’re broken<br> Inherit your life.<br> </p>",
+        letra5: "<h4>Good Friends And A Bottle Of Pills</h4> <p> I fucked your girlfriend last night.<br> While you snored and drooled, I fucked your love.<br> She called me Daddy.<br> And I called her baby when I smacked her ass.<br> I called her sugar when I ate her alive till daylight.<br> And I slept with her all over me,<br> from forehead to ribcage I dripped her ass.<br> Sometimes I thought you might be spying,<br> living out some brash fantasy, but no.<br> You were knocked out.<br> But we were all knocked out you know.<br> In a way<br> </p> <p> I serve too many masters.<br> </p> <p> We didn’t know you’d break the bottle<br> that the magic came in to use those jagged shards<br> to cut our wrists and neck.<br> And you’d do it too, you’re that kind of dude.<br> But you wouldn’t know what you were doing<br> because I didn’t,<br> your girlfriend could have been a burn victim,<br> an amputee, a dead body.<br> But god damn I wanted to fuck.<br> </p> <p> I’m losing what’s left of my fucking mind,<br> I serve too many fucking masters.<br> </p> <p> (I told you. I told you motherfucker)<br> </p>",
+        letra6: "<h4>Hard Lines, Sunken Cheeks</h4> <p> As a child I was given the gift to entertain you. But through blood I inherited a life that could destroy you. </p> <p> I drink all day. I smoke all day. I took your daughters breath away. I’ve done it all but tap the vein. These hard lines and sunken cheeks are text book reasons All these Christians come alive and try to sell you </p> <p> My soul for a goat, yet I’ll outlive the old. </p> <p> You know it’s bad, some may say sad, a hangover is inspiration. Like a junkie I hurt for it. A bad trip, the emptiness. </p> <p> I never sleep, or always sleep a lack of fulfillment to me is me. The big picture. These hard lines and sunken cheeks are part of what the Christians mean to immortalize my situation. </p> <p> My soul for a goat. Yet I’ll outlive the old. </p> <p> Embrace some religion. To get close to some undivine ejaculation point. Simply to thy ghost I cling. Simply to thy ghost I reject. Simply to thy ghost I give spit. </p> <p> Tempter, tempting, tempt me. Molest me. You know that I’ll submit. For this is my weakness and it saves me from relationships With those Christians you know they’ll sell you </p> <p> my soul for a goat. Yet I’ll outlive the old. </p>",
+        letra7: "<h4>Slaughtered</h4> <p> One’s own Kingman, Christ person, Woman God. At battle with a mass astrengent. The bond that blends the weak to the wise. </p> <p> It’s a safe assumption that you’d want to save me now. But I’ll never face castration. For your sacred sow is left </p> <p> slaughtered. </p> <p> Brainwashed by me. Myself influence I. Bird brained World saver. A fake god rests dead inside you. </p> <p> It’s a safe assumption that you’d want to save me now. But I’ll never face castration. For your sacred sow is left </p> <p> Slaughtered. </p> <p> System destroyed. Exposed and unployed. The fruit of intention cry for their dead, but turning their head to ignore reality’s claw. Knife to your wrist, syringe in your arm is your ounce of prevention. Give what you made, And under your name on your grave, is salvation. </p> <p> A big fucking joke. </p> <p> Slaughter the pig, the self righteous king for your own restoration. God is in your chest and faith kills what is precious, for death is unanswered. </p> <p> Slaughtered. </p> <p> Do sin [x4] </p>",
+        letra8: "<h4>25 Years</h4> <p> I vent my frustration at you old man,<br> after years your ears will hear.<br> </p> <p> You screamed you tried,<br> it’s words of a weakling<br> and promises made by a liar, drunken liar.<br> </p> <p> Now you pick up that splintered chair,<br> that was aiming for your head.<br> </p> <p> A head that should have been long ago kicked in by me.<br> Alone.<br> </p> <p> I won’t lose a second of sleep for this…<br> </p> <p> Don’t touch me.<br> No!<br> Ever again<br> Don’t touch me<br> Don’t touch me<br> Don’t touch me<br> </p> <p> Orphaned to the dope and drinks,<br> I learned my lesson well, somehow from you.<br> </p> <p> No tears. Can’t clutch my regrets.<br> But these years of detachment<br> have left me with demons now surfacing.<br> I’m becoming more than nothing.<br> </p> <p> You never knew the answers to any of my questions, did you?<br> You made up all the answers to my unimportant existence.<br> </p> <p> But now you don’t have to dump me off,<br> </p> <p> Not again<br> Don’t touch me<br> Don’t touch me<br> Don’t touch me<br> Fuck, no!<br> </p> <p> Ever again<br> Don’t touch me<br> Don’t touch me<br> Don’t touch me<br> Fuck, no!<br> Don’t touch me<br> Never again<br> </p> <p> I vow, lest I die tomorrow…<br> </p> <p> You’ll never be the father I am.<br> The bastard father to the thousands<br> of the ugly, criticized, the unwanted.<br> The ones with fathers just like you.<br> We’re fucking you back.<br> </p> <p> I’m shoving my life right down your throat.<br> Can I find the guts?<br> Can I feel the heart?<br> Look at the ground as you choke me up,<br> does it taste like tequila?<br> Or failure?<br> </p> <p> We’re fucking you back<br> Fucking you back<br> We’re fucking you back<br> Fucking you back<br> </p>",
+        letra9: "<h4>Shedding Skin</h4> <p> I don’t want you to look at me while<br> I’m shedding skin.<br> I can’t afford for you to see what’s in.<br> I’d rather shoot myself than have you watch me.<br> I feel you’d steal my skin to try and wear me.<br> </p> <p> I was betrayed, one more day of my short life.<br> You were carried away. You had no shame.<br> To suffocate my being.<br> I was me, but you weren’t you.<br> You were sticking to me like a scab…<br> so I peeled you away, and bled for days.<br> Then stepped out of myself.<br> </p> <p> I’m shedding skin, changing within, I’m falling in.<br> Through swollen eyes, I dreamed you died, caught inside.<br> I’m shedding skin, spreading thin, severed stem.<br> I created the end, I’m killing a friend. I’m shedding my skin.<br> </p> <p> I don’t think you belong in here,<br> I feel I’m sick.<br> Don’t ask because you know damn well where I’ve been.<br> I’ve kept a simple woman through the thick and thin.<br> But I’ve found the guts to sever from my Siamese twin.<br> </p> <p> I throw you away. Everyday. A dead part of life.<br> Strangling back. Seething black.<br> In between my longing for torture.<br> Blood on my face that came from your face.<br> The mix of kissing and bleeding.<br> I put you away. I shut you away.<br> I pissed you away. I threw you away.<br> </p> <p> I’m shedding skin, changing within, I’m falling in.<br> Through swollen eyes, I dreamed you died, caught inside.<br> I’m shedding skin, spreading thin, severed stem.<br> I created the end, I’m killing a friend. I’m shedding my skin.<br> </p> <p> You’re fucking, and sucking.<br> You’re friendless. It’s endless.<br> Your flower has soured.<br> It’s endless. You’re friendless.<br> It’s harder. And stronger.<br> But no one’s been inside you longer.<br> Or harder. Or deeper.<br> To get you off, you need the fear.<br> </p> <p> It’s never love. Bloody touch.<br> Broken wrist. Needle rust.<br> Choking throat. Swallowed teeth.<br> Head fuck. No peace.<br> I’m shedding my skin to peel you off of me.<br> You’ve got to love me.<br> </p> <p> Ornament. Shrunken head.<br> Playtoy. Snake strike.<br> Poisonous. Syphilis.<br> Drenched me. Soaked me.<br> I’m shedding my skin to drain you out of me.<br> You’ve got to hate me.<br> </p>",
+        letra10: "<h4>Use My Third Arm</h4> <p> Enlight your sense of thought, of touch,<br> of real, a shield, an underground for this coward.<br> Building a blood in water scent.<br> It’s like some raping,<br> without judgement.<br> Boy in a pocket.<br> Balls in a bag.<br> Serve and protect you.<br> His dick his gun, his brain his badge.<br> </p> <p> A faster way to kill them all would take too goddamn long.<br> Absorb through pores the great escape.<br> </p> <p> Kill that fuck to show him up.<br> Equal his displeasure now.<br> Stab his ass, a reminded past of what the fuck we live for.<br> </p> <p> Ourselves.<br> </p> <p> Arm yourself. A branch. A third arm.<br> Extend your health, crawl inside euphoria.<br> Building a blood in water scent.<br> It’s like a scraping. It’s entrapment.<br> Boy in a pocket.<br> Balls in a bag.<br> Perverted handle.<br> His getting by is a fisted fuck.<br> </p> <p> A faster way to exterminate them takes too fucking<br> long. Absorb through pores the great escape.<br> </p> <p> Kill that fuck to show him up.<br> Equal his displeasure now.<br> Stab his ass, a reminded past of what the fuck we live for.<br> </p> <p> Ourselves.<br> </p> <p> Half-assed for most his life.<br> Piss poor little ham.<br> Narc boy a fake fuck limp dick.<br> Sucking up to the man.<br> And the world.<br> We need a fucking cold war.<br> </p> <p> Building a blood in water scent<br> It’s like a raping<br> Without judgement<br> Boy in a pocket<br> Balls in a bag<br> Perverted handle<br> His dick his gun, his brain his badge<br> </p> <p> Kill that fuck to show him up<br> Equal your displeasure now<br> Stab his ass a reminded past of what the fuck we’re living for<br> </p> <p> Our fucking selves!<br> </p>",
+        letra11: "<h4>Throes Of Rejection</h4> <p> This is feeding what I am.<br> </p> <p> It’s like salt poured into a deep, infected wound.<br> It’s the type of pain you really dig and long for.<br> I’ve always been insecure to open up and show love.<br> Some pretty girl with long hair, some bald guy writhing.<br> </p> <p> Rejection…<br> </p> <p> The kind that’s self induced.<br> The tongue that’s bitten through.<br> The nauseating stab.<br> Is feeding what I am.<br> </p> <p> A short fuse.<br> </p> <p> If there really is a god, then it’s punishing me constantly.<br> She let me taste that sugarhole and of course, I wanted more.<br> But no. I’m reduced to a Rohypnol snort and a lot of drinks.<br> This shit goes on and on. Just look down my pants.<br> </p> <p> Rejection…<br> It ain’t a fucking game.<br> My human dick to blame.<br> A sociopathic plan.<br> Is feeding what I am.<br> </p> <p> Rejection…<br> Takes life away from eyes.<br> Will give you to the skies.<br> It makes me more than a man.<br> Is drowning what I am.<br> </p>",
+        letra12: "<h4>Planet Caravan</h4> <p> We sail through endless skies<br> Stars shine like eyes<br> The black night sighs<br> </p> <p> The moon in silver trees<br> Falls down in tears<br> Light of the night<br> </p> <p> The earth, a purple blaze<br> Of sapphire haze<br> In orbit always<br> </p> <p> While down below the trees<br> Bathed in cool breeze<br> Silver starlight breaks down the night<br> </p> <p> And so we pass on by the crimson eye<br> Of great god Mars<br> As we travel the universe<br> </p>"
+    },
+    album4: {
+        letra1: "<h4>The Great Southern Trendkill</h4> <p> It’s wearing on my mind,<br> I’m speaking all my doubts aloud<br> You rob a dead mans grave,<br> Then flaunt it like you did create<br> </p> <p> If I hit bottom and everythings gone<br> In the great Mississippi, please drown me and run<br> </p> <p> It’s digging time again,<br> you’re nurturing the weakest trend<br> </p> <p> Those with the heart and the brain to get past this<br> Can spot a pathetic without even asking<br> </p> <p> Fuck your magazine,<br> and fuck the long dead plastic scene<br> Pierce a new hole,<br> if Hell was “in” you’d give your soul<br> </p> <p> THE GREAT SOUTHERN TRENDKILL<br> That’s right,<br> THE GREAT SOUTHERN TRENDKILL<br> </p> <p> Buy it at a store,<br> from MTV to on the floor<br> You look just like a star,<br> it’s proof you don’t know who you are<br> </p> <p> If I hit bottom and everythings gone<br> In the great Mississippi, please drown me and run<br> </p> <p> It’s bullshit time again,<br> you’ll save the world within your trend<br> </p> <p> Those with the heart and the brain to get past this<br> Can spot a pathetic without even asking<br> </p> <p> Politically relieved,<br> you’re product sold and well received<br> The right words spoken gold,<br> if I was God you’d sell your soul to…<br> </p> <p> THE GREAT SOUTHERN TRENDKILL<br> That’s right,<br> THE GREAT SOUTHERN TRENDKILL<br> </p>",
+        letra2: "",
+        letra3: "",
+        letra4: "",
+        letra5: "",
+        letra6: "",
+        letra7: "",
+        letra8: "",
+        letra9: "",
+        letra10: "",
+        letra11: "",
     }
 }
 
@@ -62,6 +89,33 @@ const songs = {
         song9: "662893",
         song10: "662895",
         song11: "662896"
+    },
+    album3: {
+        song1: "662901",
+        song2: "662904",
+        song3: "662907",
+        song4: "662909",
+        song5: "662911",
+        song6: "662914",
+        song7: "662915",
+        song8: "662916",
+        song9: "662918",
+        song10: "662920",
+        song11: "662922",
+        song12: "662924"
+    },
+    album4: {
+        song1: "671018",
+        song2: "671020",
+        song3: "671022",
+        song4: "671024",
+        song5: "671026",
+        song6: "671029",
+        song7: "671031",
+        song8: "671034",
+        song9: "671036",
+        song10: "671038",
+        song11: "671041"
     }
 }
 
@@ -181,6 +235,98 @@ document.querySelectorAll(".song-list td").forEach(elemento => elemento.addEvent
         case "vulgar11":
             player.src = putID(songs.album2.song11)
             letrasSpan.innerHTML = letras.album2.letra11
+            break
+        case "beyond1":
+            player.src = putID(songs.album3.song1)
+            letrasSpan.innerHTML = letras.album3.letra1
+            break
+        case "beyond2":
+            player.src = putID(songs.album3.song2)
+            letrasSpan.innerHTML = letras.album3.letra2
+            break
+        case "beyond3":
+            player.src = putID(songs.album3.song3)
+            letrasSpan.innerHTML = letras.album3.letra3
+            break
+        case "beyond4":
+            player.src = putID(songs.album3.song4)
+            letrasSpan.innerHTML = letras.album3.letra4
+            break
+        case "beyond5":
+            player.src = putID(songs.album3.song5)
+            letrasSpan.innerHTML = letras.album3.letra5
+            break
+        case "beyond6":
+            player.src = putID(songs.album3.song6)
+            letrasSpan.innerHTML = letras.album3.letra6
+            break
+        case "beyond7":
+            player.src = putID(songs.album3.song7)
+            letrasSpan.innerHTML = letras.album3.letra7
+            break
+        case "beyond8":
+            player.src = putID(songs.album3.song8)
+            letrasSpan.innerHTML = letras.album3.letra8
+            break
+        case "beyond9":
+            player.src = putID(songs.album3.song9)
+            letrasSpan.innerHTML = letras.album3.letra9
+            break
+        case "beyond10":
+            player.src = putID(songs.album3.song10)
+            letrasSpan.innerHTML = letras.album3.letra10
+            break
+        case "beyond11":
+            player.src = putID(songs.album3.song11)
+            letrasSpan.innerHTML = letras.album3.letra11
+            break
+        case "beyond12":
+            player.src = putID(songs.album3.song12)
+            letrasSpan.innerHTML = letras.album3.letra12
+            break
+        case "trendkill1":
+            player.src = putID(songs.album4.song1)
+            letrasSpan.innerHTML = letras.album4.letra1
+            break
+        case "trendkill2":
+            player.src = putID(songs.album4.song2)
+            letrasSpan.innerHTML = letras.album4.letra2
+            break
+        case "trendkill3":
+            player.src = putID(songs.album4.song3)
+            letrasSpan.innerHTML = letras.album4.letra3
+            break
+        case "trendkill4":
+            player.src = putID(songs.album4.song4)
+            letrasSpan.innerHTML = letras.album4.letra4
+            break
+        case "trendkill5":
+            player.src = putID(songs.album4.song5)
+            letrasSpan.innerHTML = letras.album4.letra5
+            break
+        case "trendkill6":
+            player.src = putID(songs.album4.song6)
+            letrasSpan.innerHTML = letras.album4.letra6
+            break
+        case "trendkill7":
+            player.src = putID(songs.album4.song7)
+            letrasSpan.innerHTML = letras.album4.letra7
+            break
+        case "trendkill8":
+            player.src = putID(songs.album4.song8)
+            letrasSpan.innerHTML = letras.album4.letra8
+            break
+        case "trendkill9":
+            player.src = putID(songs.album4.song9)
+            letrasSpan.innerHTML = letras.album4.letra9
+            break
+        case "trendkill10":
+            player.src = putID(songs.album4.song10)
+            letrasSpan.innerHTML = letras.album4.letra10
+            break
+        case "trendkill11":
+            player.src = putID(songs.album4.song11)
+            letrasSpan.innerHTML = letras.album4.letra11
             break
         default:
             console.log("Valor Inválido")
