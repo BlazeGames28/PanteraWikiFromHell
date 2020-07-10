@@ -57,6 +57,18 @@ const letras = {
         letra9: "<h4>Floods</h4> <p> A dead issue,<br> don’t wrestle with it,<br> deaf ears are sleeping<br> A guilty bliss,<br> so inviting (let me in),<br> </p> <p> nailed to the cross<br> I feel you, relate to you, accuse you<br> Wash away us all,<br> take us with the floods<br> Then throughout the night, they were raped and executed<br> Cold hearted world<br> </p> <p> Your language unheard of,<br> the vast sound of tuning out<br> The rash of negativity<br> is seen one sid edly,<br> </p> <p> burn away the day<br> The nervous, the drifting, the heaving<br> Wash away us all, take us with the floods<br> Then throughout the day mankind played with grenades<br> Cold hearted world<br> And at night they might bait the pentagram<br> Extinguishing the sun<br> Wash away man, take him with the floods<br> </p>",
         letra10: "<h4>The Underground In America</h4> <p> Put in position to wage teenage mayhem<br> A common affair for the ones who are juiced<br> If it is weakness that grants us the power<br> We thrive on what’s stronger than most of the world<br> </p> <p> Glass breaks<br> the dimming lights<br> sweat, heat and profane debate<br> the smart ones stay on the outside<br> while drunken heads and arms erupt<br> </p> <p> centered man swings a punch,<br> spits a tooth, postures odd<br> a punk rock escapade<br> five bucks a head to be king dick in the crowd<br> </p> <p> We are the ones who must sport the position<br> </p> <p> cheap beer<br> trendy clicks<br> lesbian love is accepted and right<br> shaved heads meet hair in the mix<br> blending the 80’s and 90’s with hate<br> </p> <p> Put in position to wage teenage mayhem<br> A common affair for the ones who are juiced<br> If it is weakness that grants us the power<br> We thrive on what’s stronger than most of the world<br> </p> <p> Shows on<br> dates canceled<br> kicked out for reasons that seem so unfair<br> skin crusts against the cops<br> a foregone conclusion that’s tired and beat<br> </p> <p> Ringworm,crabs and lice<br> V.D. ecstasy, speed and horse<br> a heaven of unmatched importance<br> an honor of sex to be stuck by the punk<br> </p> <p> Rich homes with money and food<br> abandoned for the bums on the street<br> a lifestyle that’s unexplainable<br> don’t try and save what is all meant to be<br> </p> <p> Put in position to wage teenage mayhem<br> A common affair for the ones who are juiced<br> If it is weakness that grants us the power<br> We thrive on what’s stronger than most of the world<br> </p> <p> If it is free<br> from (a) family that’s seen<br> you can just keep it<br> if you must beg<br> it’s better instead<br> you must follow the etiquette<br> </p> <p> You know when it rains you’re in your bed at home<br> You act so real when you are alone<br> You better not let the mohawked crowd see<br> Give it five years, you’ll retire your piercings<br> You must admit that you mimic the weaklings<br> </p>",
         letra11: "<h4>Sandblasted Skin (Reprise)</h4> <p> Scrape it, grind it, peel it, hide it<br> The trend is over and gone forever<br> Shelf it, box it, save it, frame it<br> You won’t need that anymore,<br> it’s on sale at the fucken dollar store<br> </p> <p> Waste of time,<br> pantomime,<br> circus doll,<br> at the local mall<br> Exterminate, it’s all fake!<br> Exterminate, it’s all fake<br> </p> <p> Sandblast yourself<br> Sandblast yourself<br> Sandblast<br> Sandblast<br> It’s getting old, old, old<br> </p>",
+    },
+    album5: {
+        letra1: "<h4>Hellbound</h4> <p> Eliminate, the life decline…<br> I’ve paid the masters with blood and hunger<br> …And it’s not for sale by any stretch.<br> It’s like religion without a Bible<br> And the Dragon lives inside my mouth<br> And it speaks in tongues, the word…<br> </p> <p> Hellbound – in Ft. Worth, Texas<br> Hellbound – Ft. Worth<br> </p> <p> Snakes, in Southern flames<br> To bring the thunder; the great decider<br> Would you believe in this or the ash?<br> I do believe it and it’s taking over…<br> Accept<br> </p> <p> Born to a world so young and proud<br> But over your head hangs a black cloud<br> Grow your hair and crawl inside yourself<br> Because there you cannot hide<br> Facing fears that you’ll overcome and one<br> Of these years you know you’ve won<br> </p>",
+        letra2: "<h4>Goddamn Electric</h4> <p> There is a part of me that’s always sixteen<br> I’ve found the secret of eternal youth<br> Some get high on life or money, but there’s an<br> Escape, drop out of the race.<br> – To walk through the world by ones self, you can’t be<br> Protected… your trust is in whiskey and weed and<br> Black Sabbath – It’s Goddamn Electric<br> </p> <p> Don’t waste your time, embrace it<br> And then you’ll know yourself<br> The change in you is Goddamn Electric<br> </p> <p> The weight of the world has lifted and parted<br> My eyes roll blind to sights that distracted<br> Through tunnel-vision and dope-hair blinders<br> I’ll cut a path and evoke my will<br> – To walk through the world by ones self, you can’t<br> Be protected… your trust is in whiskey and weed<br> And Slayer, it’s Goddamn Electric<br> </p> <p> Don’t fake your life – inhale it<br> And then you’ll know yourself<br> The change in you is Goddamn Electric<br> Don’t waste your time, embrace it<br> And then you’ll know yourself<br> The change that is Goddamn Electric will focus<br> The Mind’s Eye…<br> </p> <p> One hand on the bottle, the other a shaking<br> Fist, rejuvenated, isolated, no pressure<br> From the outside, my sight’s Goddamn Electric<br> And these eyes have seen a world<br> Goddamn Electric system…<br> </p>",
+        letra3: "<h4>Yesterday Don’t Mean Shit</h4> <p> There’s nothing special about it<br> It’s either there when you’re born or not<br> Gifted with talent are no big deal<br> Welcome to the death of a century…<br> </p> <p> Cause yesterday don’t mean shit<br> What’s over is over and nothing between<br> Yesterday don’t mean shit<br> Because tomorrow’s the day you have to face<br> There’s no rewinding time<br> Yesterday don’t mean shit<br> Yesterday don’t mean shit<br> </p> <p> Reliving old reviews is a useless tool of confusion<br> Don’t hold your breath for the turn-around<br> Come into the world of endless odds…<br> </p> <p> They’ll tell you about guilt<br> And in time you’ll face the darkness…<br> But darkness is a friend to you<br> Embrace and fly through the madness<br> Flying past God and wars and conflict<br> Oppressor in you [x2] Plowing through minds and paranoia<br> Oppressor in you<br> The oppressor’s in you<br> </p> <p> Yesterday don’t mean jack shit…<br> </p> <p> To protect you and I’ll keep to myself<br> It can only be that way – yeah!<br> </p>",
+        letra4: "<h4>You’ve Got To Belong To It</h4> <p> Build an inner door, drop and then explore<br> You smoke your head on straight, then drink<br> Your woes away –<br> Some might not understand possession<br> Controls your head<br> </p> <p> You recognize it, while some ignore it<br> Avoid the masses, you’ve got to belong to it<br> </p> <p> Your music is your friend? But the roof<br> Above my head. So seriously I take the will<br> That never breaks<br> Some might not understand, possession<br> Beyond your hands…<br> </p> <p> It’s power and sin, and then you’ve got all the other habits<br> Whiskey and smoke<br> It’s all that we could need, to plant the perfect<br> Seed, disembody me – yeah…<br> </p>",
+        letra5: "<h4>Revolution Is My Name</h4> <p> 68′ into the world born<br> And the Seventies, a breath after the war<br> Life was confusing because of my age<br> Should my eyes open for tomorrow’s gains?<br> I can’t help the way I am<br> There’s no trust and there’s no end<br> What is my name?<br> </p> <p> It will never change<br> So here it stays<br> Forever is my name<br> </p> <p> From now on, can’t look the other way<br> Keep in mind and listen to what I say<br> Take under wing all the ones who are lost<br> Build up around them an infinite wall<br> Don’t you know just who I am?<br> Take the hand of wisdom’s friend<br> What is my name?<br> </p> <p> It’s time to change<br> It can’t stay the same<br> Revolution is my name<br> It will never change<br> So here it stays<br> Forever is my name<br> </p> <p> What is my name?<br> Forever…<br> </p> <p> What is my name?<br> Revolution…<br> </p>",
+        letra6: "<h4>Death Rattle</h4> <p> Numbing rumble, countless medicine,<br> Depleted from years of abuse<br> Death rattle shaking<br> And there’s no faking, undertaking<br> </p> <p> Pressure point, rigor mortis<br> Induce, grasp of poison hands<br> Death rattle shaking<br> From years of compulsive mistaking<br> </p> <p> Death rattle shakes<br> </p> <p> Disease of eyes, the addict blindfold, reduced to<br> The realms of death<br> Death rattle shaking<br> Accumulating life it’s taking<br> </p> <p> Death rattle shakes<br> </p> <p> I’ve seen the end, and there is no light.<br> Like deadly snakes, death rattle shakes<br> </p>",
+        letra7: "<h4>We’ll Grind That Axe For A Long Time</h4> <p> Wears 10 crowns, dragons heads<br> Southern are the sons, Lords unmatched<br> – Their eyes don’t look right, should they be trusted now?<br> Trashed-mouth Gods, avoided kings<br> With the spirit of revolt, the ghost of youth<br> </p> <p> Every fucking year it stays the same<br> Everybody changes to suit the day<br> Out of pride I’ll isolate my fears<br> Never turned our backs on why we’re here<br> We’ll grind that axe for a long time<br> </p> <p> Follow close, train of fools<br> Just like them, just like you<br> – Their eyes don’t seem right.<br> “Easily impressed” plague, dressed up fake<br> No respect<br> </p> <p> Every fucking year remains the same<br> Everybody sucks-up to suit the day<br> Out of hate I’ll isolate myself<br> Through the worst we still marched into hell<br> We’ll grind that axe for a long time<br> The smell in the air is chicken shit.<br> </p> <p> We’ll grind that axe for a long time<br> </p> <p> Every fucking song remains the same<br> To everyone who sucks-up for the fame<br> Out of strength you know we speak the truth<br> Every trend that dies is living proof<br> We’ll grind that axe for a long time<br> </p>",
+        letra8: "<h4>Uplift</h4> <p> On one whole bottle “uplifting!”<br> There is no telling what I’ll do<br> Run head first into traffic<br> A mindset of annihilation<br> </p> <p> No sense makes sense<br> You can’t get bought without thought<br> Ahh… no sense makes sense<br> You can’t get bought without thought inside<br> Your head now<br> </p> <p> Uplift – uplifting<br> Uplifting now<br> </p> <p> On hallucinogenic “uplift”<br> I can step out of my body<br> Religion is in myself<br> I’ll split my head in two and see you twice<br> </p> <p> No sense makes sense<br> You can’t get bought without thought<br> Ahh… no sense makes sense<br> You can’t get bought without thought inside<br> your head now<br> </p> <p> Uplift… uplifting<br> Uplifting now…<br> Uplifting you now…<br> </p> <p> Give me alcohol extremities<br> Instead of proofless christianity<br> Drunked up in a coma place<br> Critics disgusted, but a smile on my fucking face<br> I do anything that I want<br> And I get everything that I ask<br> And if this message bothers you, you know<br> Just kiss my fucking ass hole<br> </p>",
+        letra9: "<h4>It Makes Them Disappear</h4> <p> The time had finally come to kill the vein.<br> And I’m dropping down the dirt on your grave<br> It might hurt so bad, but I can’t feel sad<br> Rid of a fool like you<br> The wrath has just begun<br> The time has finally come<br> And it hurts so bad, and it drives me mad<br> Life with a blinded view (of you)<br> </p> <p> It makes them disappear<br> It fills their life with fear<br> When their future isn’t clear<br> It makes them disappear<br> </p> <p> – Gone –<br> </p> <p> So the coward has up and run to be saved<br> But with each step taken down, you sink in your grave<br> It might hurt so bad, but I can’t feel sad<br> Rid of a fool like you<br> </p> <p> Get the fuck on down the road<br> </p>",
+        letra10: "<h4>I’ll Cast A Shadow</h4> <p> The end will crush the light<br> And sends a message, It won’t please<br> The naked eye<br> Without and end there is no light<br> To foretell, to blind you<br> The law of the claw reigns on and after still<br> </p> <p> When I die, I cast a shadow<br> And I’ll rise, I cast a shadow<br> </p> <p> I’m leaving more eyes open<br> I close up both of mine<br> For the ones that chase my life<br> They’re looking over shoulders<br> Let paranoia in<br> Spontaneously rule them<br> </p> <p> When I die, I cast a shadow<br> And I’ll fly, I cast a shadow<br> </p> <p> Everybody get fucking up!<br> I cast a shadow…<br> I… I cast a shadow<br> I cast a shadow…<br> I… I cast a shadow<br> </p> <p> When I die, I cast a shadow<br> And I’ll rise, I cast a shadow<br> </p>"
     }
 }
 
@@ -116,6 +128,18 @@ const songs = {
         song9: "671036",
         song10: "671038",
         song11: "671041"
+    },
+    album5: {
+        song1: "4085629",
+        song2: "4085630",
+        song3: "4085631",
+        song4: "4085632",
+        song5: "4085633",
+        song6: "4085634",
+        song7: "4085635",
+        song8: "4085636",
+        song9: "4085637",
+        song10: "4085638"
     }
 }
 
@@ -327,6 +351,46 @@ document.querySelectorAll(".song-list td").forEach(elemento => elemento.addEvent
         case "trendkill11":
             player.src = putID(songs.album4.song11)
             letrasSpan.innerHTML = letras.album4.letra11
+            break
+        case "steel1":
+            player.src = putID(songs.album5.song1)
+            letrasSpan.innerHTML = letras.album5.letra1
+            break
+        case "steel2":
+            player.src = putID(songs.album5.song2)
+            letrasSpan.innerHTML = letras.album5.letra2
+            break
+        case "steel3":
+            player.src = putID(songs.album5.song3)
+            letrasSpan.innerHTML = letras.album5.letra3
+            break
+        case "steel4":
+            player.src = putID(songs.album5.song4)
+            letrasSpan.innerHTML = letras.album5.letra4
+            break
+        case "steel5":
+            player.src = putID(songs.album5.song5)
+            letrasSpan.innerHTML = letras.album5.letra5
+            break
+        case "steel6":
+            player.src = putID(songs.album5.song6)
+            letrasSpan.innerHTML = letras.album5.letra6
+            break
+        case "steel7":
+            player.src = putID(songs.album5.song7)
+            letrasSpan.innerHTML = letras.album5.letra7
+            break
+        case "steel8":
+            player.src = putID(songs.album5.song8)
+            letrasSpan.innerHTML = letras.album5.letra8
+            break
+        case "steel9":
+            player.src = putID(songs.album5.song9)
+            letrasSpan.innerHTML = letras.album5.letra9
+            break
+        case "steel10":
+            player.src = putID(songs.album5.song10)
+            letrasSpan.innerHTML = letras.album5.letra10
             break
         default:
             console.log("Valor Inválido")

@@ -113,12 +113,12 @@ header nav ul {
 
 .nav-conteudo li:hover {
     background-color: #444444;
-    text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
+    text-shadow: 0px 0px 5px rgba(255, 255, 255, 0.25);
 }
 
 .nav-info li:hover {
     background-color: rgb(26, 26, 26);
-    text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
+    text-shadow: 0px 0px 5px rgba(255, 255, 255, 0.25);
 }
 
 .dropdown-list {
@@ -141,7 +141,7 @@ header nav ul {
 }
 
 .dropdown-list li:hover {
-    text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
+    text-shadow: 0px 0px 5px rgba(255, 255, 255, 0.25);
 }
 
 .dropdown:hover > .dropdown-list li {
@@ -165,7 +165,7 @@ main {
 }
 
 .main-gray {
-    background-color: #505050;
+    background: linear-gradient(0deg, rgba(0,0,0,1) 25%, rgba(80,80,80,1) 75%);
 }
 
 h1, h2 {
@@ -181,7 +181,7 @@ h1, h2 {
 h1 {
     text-align: center;
     font-size: 40px;
-    text-shadow: 0px 2px 10px rgb(0, 0, 0);
+    text-shadow: 0px 0px 10px rgb(0, 0, 0);
 }
 
 .albuns, .albuns-section {
@@ -248,6 +248,10 @@ h1 {
 
 .album-list a, .albuns-section-list a {
     color: white;
+}
+
+.album-list a:hover p, .albuns-section-list a:hover p {
+    text-shadow: 0px 0px 5px rgba(255, 255, 255, 0.25);
 }
 
 .banner {
@@ -469,12 +473,15 @@ article {
 
 .info-album ul {
     margin: 1rem;
+    border-left: 3px solid #202020;
 }
 
 .info-album ul li {
     margin: 1rem auto;
     color: black;
-    list-style: square;
+    padding-left: 0.5rem;
+    list-style-position: outside;
+    list-style: inherit;
 }
 
 .letras {
@@ -609,6 +616,7 @@ footer ul:nth-child(3) li:hover {
 
 .btn-ler:hover {
     transform: translateX(5%);
+    box-shadow: -5px 0px 5px rgba(0, 0, 0, 0.1);
 }
 
 .points-icon {
