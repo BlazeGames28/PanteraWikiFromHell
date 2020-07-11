@@ -176,12 +176,20 @@ h1, h2 {
     display: block;
     letter-spacing: 2px;
     z-index: 2;
+    position: relative;
 }
 
 h1 {
     text-align: center;
     font-size: 40px;
     text-shadow: 0px 0px 10px rgb(0, 0, 0);
+}
+
+hr {
+    background-color: #444444;
+    border: 1px solid #444444;
+    margin: 1rem;
+    clear: both;
 }
 
 .albuns, .albuns-section {
@@ -197,7 +205,7 @@ h1 {
     transform: scale(1.1);
 }
 
-.albuns-title, .albuns-section-title {
+.albuns-title {
     font-family: 'Lora', serif;
     text-transform: uppercase;
     color: #cc3300;
@@ -252,6 +260,7 @@ h1 {
 
 .album-list a:hover p, .albuns-section-list a:hover p {
     text-shadow: 0px 0px 5px rgba(255, 255, 255, 0.25);
+    letter-spacing: 1.5px;
 }
 
 .banner {
@@ -330,17 +339,79 @@ p {
     line-height: 1.6;
 }
 
-.discografia {
+.conteudo {
     display: grid;
     grid-template-columns: 1fr 3fr 1fr;
     grid-template-rows: auto 50vh auto;
 }
 
-.discografia h1 {
+.main-gray h1 {
     grid-column-start: 1;
     grid-column-end: 4;
     grid-row-start: 1;
     grid-row-end: 1;
+}
+
+.historia {
+    background-color: #979797;
+    margin: 0 8vw 8vh;
+    border-radius: 0.5rem;
+    padding: 1rem 2rem 2rem;
+    height: 100%;
+    position: relative;
+    color: black;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+}
+
+.historia h2 {
+    text-align: center;
+    margin: 0 auto 0.5rem;
+}
+
+.historia h3 {
+    font-family: 'Oswald', sans-serif;
+    padding: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.historia h2, .historia p {
+    color: black;
+}
+
+.historia p {
+    padding: 1rem;
+}
+
+.images-glam, .images-glam-albuns img {
+    border-radius: 0.5rem;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+}
+
+.images-glam {
+    float: right;
+    margin: 0 0 1rem 1rem;
+}
+
+.images-glam-albuns {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0 auto;
+}
+
+.images-glam-albuns li {
+    margin: 0.5rem;
+}
+
+.videos {
+    float: right;
+    width: 350px;
+    height: 200px;
+    clear: both;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
 }
 
 .album-selected {
@@ -573,6 +644,11 @@ footer li {
     margin: 0 1rem 0 1rem;
     float: left;
     height: 100%;
+}
+
+.footer-links ul {
+    border-left: 3px solid gray;
+    padding-left: 0.5rem;
 }
 
 .footer-links li {
