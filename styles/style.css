@@ -23,6 +23,7 @@ body {
 
 html, body {
     height: 100%;
+    width: 100vw;
 }
 
 a {
@@ -51,6 +52,8 @@ header {
     align-items: center;
     width: 100%;
     z-index: 3;
+    top: 0;
+    left: 0;
     box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -165,7 +168,7 @@ main {
 }
 
 .main-gray {
-    background: linear-gradient(0deg, rgba(0,0,0,1) 25%, rgba(80,80,80,1) 75%);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 30%, rgba(80,80,80,1) 70%);
 }
 
 h1, h2 {
@@ -193,7 +196,7 @@ hr {
     clear: both;
 }
 
-.albuns, .albuns-section {
+.albuns, .albuns-section, .integrantes-section {
     position: relative;
     text-align: center;
 }
@@ -202,11 +205,15 @@ hr {
     margin-top: -3rem;
 }
 
-.albuns img, .albuns-section img {
+.albuns-list img, .albuns-section-list img, .integrantes-list img {
     transform: scale(1.1);
 }
 
-.albuns-title {
+.fundo-textura {
+    width: 100%;
+}
+
+.albuns-title, .integrantes-title {
     font-family: 'Lora', serif;
     text-transform: uppercase;
     color: #cc3300;
@@ -217,10 +224,18 @@ hr {
     transform: translate(-50%, -50%);
     text-shadow: 0px 2px 10px rgb(0, 0, 0);
     margin: 1rem 0;
-    top: 3vh;
+    top: 15vh;
 }
 
-.album-list, .albuns-section-list {
+.integrantes-title {
+    top: 8vh;
+}
+
+.albuns-title {
+    top: 15vh;
+}
+
+.album-list, .albuns-section-list, .integrantes-list {
     display: flex;
     list-style: none;
     position: absolute;
@@ -230,23 +245,23 @@ hr {
     top: 60%;
 }
 
-.album-list img, .albuns-section-list img, .album-image{
+.album-list img, .albuns-section-list img, .integrantes-list img, .album-image{
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
     border-radius: 0.5rem;
     transform: scale(1);
     margin: 0 auto;
 }
 
-.album-list img:hover, .albuns-section-list img:hover {
+.album-list img:hover, .albuns-section-list img:hover, .integrantes-list img:hover {
     transform: scale(1.05);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
 }
 
-.album-list li, .albuns-section-list li {
+.album-list li, .albuns-section-list li, .integrantes-list li {
     margin: 1rem;
 }
 
-.album-list p, .albuns-section-list p, .album-selected p {
+.album-list p, .albuns-section-list p, .integrantes-list p, .album-selected p {
     font-size: 20px;
     text-shadow: 0px 2px 10px rgba(0, 0, 0, 1);
     margin: 1rem auto;
@@ -255,11 +270,11 @@ hr {
     text-align: center;
 }
 
-.album-list a, .albuns-section-list a {
+.album-list a, .albuns-section-list a, .integrantes-list a {
     color: white;
 }
 
-.album-list a:hover p, .albuns-section-list a:hover p {
+.album-list a:hover p, .albuns-section-list a:hover p, .integrantes-list a:hover p {
     text-shadow: 0px 0px 5px rgba(255, 255, 255, 0.25);
     letter-spacing: 1.5px;
 }
@@ -285,6 +300,7 @@ hr {
     top: 0;
     left: 0;
     margin: 0 auto;
+    width: 100vw;
 }
 
 .dime-section, .band-section {
@@ -356,7 +372,7 @@ p {
 
 .historia {
     background-color: #979797;
-    margin: 0 8vw 8vh;
+    margin: 0 5vw 8vh;
     border-radius: 0.5rem;
     padding: 1rem 1rem 2rem;
     height: 100%;
@@ -382,7 +398,8 @@ p {
 }
 
 .historia p {
-    padding: 1rem;
+    text-indent: 1.5rem;
+    padding: 0.5rem 1rem;
 }
 
 .images-historia, .historia-albuns img {
@@ -390,16 +407,14 @@ p {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
 }
 
-.images-historia {
-    margin: 1rem 1rem 0.5rem;
-}
-
 .images-right {
     float: right;
+    margin-left: 1.5rem;
 }
 
 .images-left {
     float: left;
+    margin-right: 1.5rem;
 }
 
 .historia-albuns {
@@ -412,15 +427,10 @@ p {
     border-bottom: 3px groove #505050;
 }
 
-.historia-albuns li {
-    margin: auto 0.5rem;
-}
-
 .videos {
     width: 350px;
     height: 200px;
     clear: both;
-    margin: 1rem;
     border-radius: 0.5rem;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
 }
@@ -431,6 +441,24 @@ p {
 
 .video-right {
     float: right;
+}
+
+figure {
+    text-align: center;
+    margin: 1rem 1rem 0;
+    font-style: italic;
+    font-size: small;
+    text-indent: 0;
+}
+
+figcaption {
+    max-width: 240px;
+    margin: 0.5rem auto 0.5rem;
+    padding-bottom: 0.5rem;
+    background: linear-gradient(0deg, #505050 0%, #50505000 100%);
+    border-bottom: 2px solid #505050;
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
 }
 
 .album-selected {
