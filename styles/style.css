@@ -211,6 +211,105 @@ main {
     margin-left: 0.5rem;
 }
 
+.contato-cor {
+    background: linear-gradient(0deg, rgba(0,0,0,1) 38%, #4e4e4e 70%);
+}
+
+.contato {
+    background-image: url(../images/Contato/Figura1.jpg);
+    background-repeat: no-repeat;
+    background-position: center 20%;
+    background-size: cover;
+    width: 1200px;
+    height: 700px;
+    position: relative;
+    border-radius: 1rem;
+    margin: 0 auto 8vh;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+}
+
+.contato h2 {
+    margin: 1rem auto;
+}
+
+.contato section h2 {
+    text-align: center;
+    color: white;
+    text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.25);
+}
+
+.contato section {
+    position: absolute;
+    top: 35%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+}
+
+.contato form {
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    background-color: #979797;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    width: 500px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+}
+
+.contato form h2 {
+    color: black;
+    margin: 0.5rem auto;
+    text-align: center;
+}
+
+.contato form p {
+    margin: 1rem 0;
+    color: black;
+}
+
+.contato form label {
+    margin: 0.5rem 0;
+}
+
+.contato form select, p input, textarea {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    border: none;
+    margin-right: auto;
+    width: 100%;
+    resize: vertical;
+}
+
+.contato .enviar, .contato .resetar {
+    color: white;
+    font-size: 16px;
+    padding: 1rem;
+    border: none;
+    border-radius: 0.5rem;
+    width: 100px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+}
+
+.contato .enviar {
+    background-color: #5cad3e;
+    float: right;
+}
+
+.contato .enviar:hover {
+    background-color: #479c28;
+}
+
+.contato .resetar {
+    background-color: #ff4f4f;
+    float: left;
+}
+
+.contato .resetar:hover {
+    background-color: #c23434;
+}
+
 h1, h2 {
     font-family: 'Oswald', sans-serif;
     color: #ebaf1d;
