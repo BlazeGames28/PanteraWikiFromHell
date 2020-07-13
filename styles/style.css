@@ -171,6 +171,46 @@ main {
     background: linear-gradient(0deg, rgba(0,0,0,1) 30%, #4e4e4e 70%);
 }
 
+.sobre {
+    background: linear-gradient(0deg, rgba(0,0,0,1) 62%, #4e4e4e 65%);
+}
+
+.opcoes {
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    color: black;
+}
+
+.opcoes article {
+    background-color: #979797;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    width: 600px;
+}
+
+.opcoes article h3 {
+    margin: 0 auto 0.5rem;
+}
+
+.opcoes article .btn-ler {
+    position: relative;
+    margin: 2rem 0 0;
+}
+
+.opcoes article:first-child {
+    margin: 0 0.5rem 0 auto;
+}
+
+.opcoes article:last-child {
+    margin: 0 auto 0 0.5rem;
+}
+
+.opcoes article .images-right {
+    margin-left: 0.5rem;
+}
+
 h1, h2 {
     font-family: 'Oswald', sans-serif;
     color: #ebaf1d;
@@ -434,11 +474,14 @@ p {
     margin: 0 auto 0.5rem;
 }
 
-.historia h3, .integrantes-conteudo h3 {
+.historia h3, .integrantes-conteudo h3, .opcoes h3 {
     font-family: 'Oswald', sans-serif;
-    padding: 0 1rem 0.5rem;
     text-transform: uppercase;
     letter-spacing: 1px;
+}
+
+.historia h3, .integrantes-conteudo h3 {
+    padding: 0 1rem 0.5rem;
 }
 
 .historia h2, .historia p, .integrantes-conteudo h2, .integrantes-conteudo p {
@@ -463,6 +506,10 @@ p {
 .images-left {
     float: left;
     margin-right: 1.5rem;
+}
+
+.autor {
+    border-radius: 100%;
 }
 
 .historia-albuns {
@@ -787,7 +834,7 @@ footer ul:nth-child(3) li:hover {
 
 .btn-ler:hover {
     transform: translateX(5%);
-    box-shadow: -5px 0px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: -5px 0px 5px rgba(0, 0, 0, 0.25);
 }
 
 .points-icon {
