@@ -168,7 +168,7 @@ main {
 }
 
 .main-gray {
-    background: linear-gradient(0deg, rgba(0,0,0,1) 30%, rgba(80,80,80,1) 70%);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 30%, #4e4e4e 70%);
 }
 
 h1, h2 {
@@ -371,33 +371,81 @@ p {
 }
 
 .historia {
-    background-color: #979797;
     margin: 0 5vw 8vh;
+}
+
+.historia, .integrantes-conteudo, .integrante-dados {
+    background-color: #979797;
     border-radius: 0.5rem;
     padding: 1rem 1rem 2rem;
-    height: 100%;
     position: relative;
     color: black;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+    display: inline-block;
 }
 
-.historia h2 {
+.integrantes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.integrantes-conteudo {
+    margin: 0 1rem;
+    height: 100%;
+}
+
+.integrante-dados {
+    background-color: #2e2e2e;
+    position: relative;
+    border-radius: 0.5rem;
+    height: 100%;
+}
+
+.integrante-dados img {
+    border-radius: 0.5rem;
+}
+
+.integrante-dados, .dados {
+    text-align: left;
+    list-style: none;
+    color: white;
+}
+
+.dados {
+    border-left: 2px solid gray;
+}
+
+.dados li {
+    padding: 0.5rem 0.5rem;
+    font-size: 14px;
+}
+
+.integrante-dados h4 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 16px;
+    margin: 0.5rem auto;
+}
+
+.historia h2, .integrantes-conteudo h2 {
     text-align: center;
     margin: 0 auto 0.5rem;
 }
 
-.historia h3 {
+.historia h3, .integrantes-conteudo h3 {
     font-family: 'Oswald', sans-serif;
     padding: 0 1rem 0.5rem;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
-.historia h2, .historia p {
+.historia h2, .historia p, .integrantes-conteudo h2, .integrantes-conteudo p {
     color: black;
 }
 
-.historia p {
+.historia p, .integrantes-conteudo p {
     text-indent: 1.5rem;
     padding: 0.5rem 1rem;
 }
@@ -552,8 +600,8 @@ tr td:nth-child(2) {
 }
 
 article {
-    display: inline-block;
-    padding: 0 8vh 8vh;
+    display: block;
+    padding: 0 8vw 8vh;
 }
 
 .player {
